@@ -10,8 +10,8 @@ position: relative;
 h1 {
  color: White;
  position: relative; 
-    left: -10px;	
-       bottom: 20px;
+    left: 1px;	
+       bottom: -20px;
 }
 .header {
        padding: 1px;
