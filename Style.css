@@ -11,10 +11,10 @@ h1 {
  color: White;
  position: relative; 
     left: 10px;	
-       bottom: 10px;
+       bottom: 1px;
 }
 .header {
-       padding: 10px;
+       padding: 1px;
 }
 table, td, th {
  border: 2px solid black;
